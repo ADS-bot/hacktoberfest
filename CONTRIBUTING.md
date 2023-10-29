@@ -22,6 +22,13 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+  #### Name: [Arghadeep Saha](https://github.com/ADS-bot)
+
+- Place: Agartala, Tripura, India
+- Bio: CSE Student, KIIT University, Spring Boot
+- GitHub: [ADS-bot](https://github.com/ADS-bot)
+
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
